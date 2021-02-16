@@ -1,6 +1,6 @@
 body{background-color: white;
     background-position: 100px;
-     background-image: url(ama.jpg); height:fit-content;  background-size: cover; 
+     background-image: url(white\ house.png); height:fit-content;  background-size: cover; 
       text-align: center; 
       padding: 10%;
       background-repeat: no-repeat;
@@ -8,8 +8,8 @@ body{background-color: white;
   
     font-style: normal;
     padding-top: 5%;
-    padding-right: 5%;
-    padding-left: 5%;
+    padding-right: 10%;
+    padding-left: 10%;
     shape-image-threshold: initial; }
     h1{font-style: normal;
     font-stretch: wider;
@@ -18,6 +18,6 @@ body{background-color: white;
     font-size: 2pc;}
 
       a{padding: 4px;
-    background-color: darkcyan;
+    background-color: goldenrod;
     box-shadow:inset;
     }
